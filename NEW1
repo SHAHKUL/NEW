@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+      <label for="f1">  Firstname</label>
+      <input type="email" name="" id="fl" placeholder="enter your Firstname"><br>
+      <label for="f2">  Lastname</label>
+      <input type="email" name="" id="f2" placeholder="enter your Lasttname"><br>
+      <label for="f3">  Middlename</label>
+      <input type="email" name="" id="f3" placeholder="enter your Middlename"><br>
+      <label for="eml">Email</label>
+      <input type="email" name="" id="eml" placeholder="enter your Email"><br>
+      <label for="f1">Upload image</label>
+      <input type="submit" value="Upload">
+   </form>   
+</body>
+</html>
